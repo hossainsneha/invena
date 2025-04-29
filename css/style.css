@@ -1,0 +1,108 @@
+/* ALL COMMON CSS START */
+*{
+    margin: 0;
+    padding: 0;
+}
+ul,ol{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+   display: inline-block;
+}
+.container{
+    width: 1320px;
+    margin: 0 auto;
+}
+/* ALL COMMON CSS END */
+
+/* TOP HEADER PART START */
+#topHeader{
+    background-color: #20282d;
+    padding: 20px 0;
+}
+.topHeaderContent{
+    display: flex;
+    justify-content: space-between;
+}
+.forHover:hover{
+    border-bottom: 1px solid #fff;
+    transition: .4s;
+}
+.tContentLeft a{
+    color: #fff;  
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "DM Sans", sans-serif;
+
+}
+.tContentLeft a i{
+  padding-right: 5px;  
+}
+.tContentLeft a span{
+    padding-left: 20px; 
+    padding-right: 20px; 
+  }
+.topContentRight ul {
+    display: flex;
+    column-gap: 15px;
+}
+.topContentRight ul li a{
+    color: #fff;  
+    font-size: 14px;
+    font-weight: 400;
+    font-family: "DM Sans", sans-serif;
+}
+.topContentRight ul li span{
+    padding: 0 10px;
+    color: #fff;
+}
+/* TOP HEADER PART END */
+
+/* HEADER PART START */
+#headerPart{
+    background-color:rgb(178, 202, 202);
+}
+.headerFlex{
+    display: flex;
+    justify-content: space-between;
+}
+.logo{
+    padding-top: 10px;
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    color: #1c2539;
+    font-size: 16px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+    padding: 0 25px;
+    line-height: 70px;
+}
+.iconBtn{
+    padding-top: 5px;
+}
+.iconBtn a{
+background-color: #F2F2F2;
+border-radius: 10px;
+padding: 20px;
+color: #1c2539;
+margin-right: 15px;
+    font-family: "DM Sans", sans-serif;
+    font-weight: 400;
+}
+.quote{
+    background-color: #1c2539 !important;
+    color: #F2F2F2 !important;
+}
+
+/*  HEADER PART END */
+
+/* HEADER PART START */
+/* HEADER PART END */
+
+/* HEADER PART START */
+/* HEADER PART END */
+ 
