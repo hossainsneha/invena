@@ -1,7 +1,8 @@
 file link:https://html.themewant.com/invena/onepage-one.html
 
- font-family: "DM Sans", sans-serif;
+    font-family: "DM Sans", sans-serif;
 
  font-family: "Red Hat Display", sans-serif;
  #20282d
- 
+ 02.svg
+  <img src="images/05.webp" alt="images/05.webp">
